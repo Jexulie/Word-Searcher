@@ -1,0 +1,15 @@
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\bin\Debug\WordSearcher.exe.config
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\bin\Debug\WordSearcher.exe
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\bin\Debug\WordSearcher.pdb
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.csprojAssemblyReference.cache
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\MainWindow.g.cs
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\App.g.cs
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher_MarkupCompile.cache
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher_MarkupCompile.lref
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\MainWindow.baml
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.g.resources
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.Properties.Resources.resources
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.csproj.GenerateResource.cache
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.exe
+C:\Users\Gikunshi\source\repos\WordSearcher\WordSearcher\obj\Debug\WordSearcher.pdb
